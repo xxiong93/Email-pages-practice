@@ -1,0 +1,21 @@
+.contact-info{
+    background: #ffff00;
+    border: solid #000088;
+}
+
+.list-items{
+    list-style-type: none;
+}
+
+.center-list-title{
+    display: inline-block;
+    width: 600px;
+    height: 800px;
+    border: solid black;
+}
+
+.individual-container{
+    /* display:inline-block; */
+    border: solid black;
+    background: honeydew;
+}
